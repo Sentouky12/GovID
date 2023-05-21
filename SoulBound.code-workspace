@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"solidity.compileUsingRemoteVersion": "false",
+		"solidity.defaultCompiler": "remote"
+	}
+}
